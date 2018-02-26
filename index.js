@@ -10,3 +10,7 @@ function createMultiplier(multiplierValue) {
     return mulitplierValue * value;
   };
 }
+
+function multiplier(a, b) { 
+  return a * b;
+}
