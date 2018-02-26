@@ -11,6 +11,6 @@ function createMultiplier(multiplierValue) {
   };
 }
 
-function multiplier(a, b) { 
+function multiplier(a, b) {
   return a * b;
 }
